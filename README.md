@@ -1,4 +1,4 @@
-#Lab01 - Github Repo /n
+#Lab01 - Github Repo \n
 1.Dowload Repository
 2.ค้นหารหัสลับ
 3.เปลี่ยนชื่อไฟล์เป็น <รหัสนักเรียน-ชื่อจริง>
